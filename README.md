@@ -32,9 +32,11 @@ The project goal is to implement an interactive and simple game that uses AI for
    cd Rock-Paper-Scissors-AI
 
 3. Install the required dependencies (if any):
+   ```bash
    pip install -r requirements.txt
 
 4. Run the game script:
+   ```bash
    python RPS.py
 
 ## How It Works
