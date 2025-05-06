@@ -2,7 +2,7 @@
 
 This project is a simple implementation of the classic game **Rock, Paper, Scissors**, but with an AI component that uses machine learning techniques to predict the player's next move. The objective of this project is to demonstrate the use of artificial intelligence in a game setting using a rule-based AI strategy.
 
-## Project Description
+## Project Description 
 
 In this project, the user plays the game **Rock, Paper, Scissors** against an AI. The game follows the usual rules:
 - Rock beats Scissors
