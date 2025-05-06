@@ -28,6 +28,7 @@ The project goal is to implement an interactive and simple game that uses AI for
    git clone https://github.com/srepasup/Rock-Paper-Scissors-AI.git
 
 2. Navigate to the project directory:
+   ```bash
    cd Rock-Paper-Scissors-AI
 
 3. Install the required dependencies (if any):
